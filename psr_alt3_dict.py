@@ -9,7 +9,7 @@ class Action(IntEnum):
     Scissors = 1
     Rock = 2
     Lizard = 3
-    Spock = 4
+    Spock = 4 
 
 
 def get_user_selection():
